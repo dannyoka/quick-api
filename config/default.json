@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://doka:kdWKOj3a2yMXKkNa@cluster0.wtcbd.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
